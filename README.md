@@ -1,4 +1,4 @@
-# 💳 Real-Time Banking Fraud Detection – Exploratory Data Analysis
+#  Real-Time Banking Fraud Detection – Exploratory Data Analysis
 
 ## 1. Introduction
 This project focuses on analysing credit card transaction data to understand the patterns and behaviour of fraudulent and non-fraudulent transactions.
