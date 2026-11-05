@@ -127,8 +127,6 @@ REAL-TIME-BANKING-FRAUD/
 └── output_28_1.png
 ```
 
-*Note: The notebook file containing the EDA code should also be placed in the project directory.*
-
 ## 8. Installation and Requirements
 
 ### Step 1: Clone or Download the Repository
