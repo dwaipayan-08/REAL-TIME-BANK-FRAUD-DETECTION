@@ -111,21 +111,21 @@ These observations provide useful insights into the characteristics of
 fraudulent transactions.
 ## 7. Project Structure
 REAL-TIME-BANKING-FRAUD/
-      │
-      ├── Mini_project.pdf
-      ├── PRACTICEMINIPROJECT.tex
-      ├── README.md
-      │
-      ├── output_7_0.png
-      ├── output_8_0.png
-      ├── output_9_0.png
-      ├── output_10_0.png
-      ├── output_11_0.png
-      ├── output_12_0.png
-      ├── output_16_0.png
-      ├── output_26_1.png
-      ├── output_27_1.png
-      └── output_28_1.png
+│
+├── Mini_project.pdf
+├── PRACTICEMINIPROJECT.tex
+├── README.md
+│
+├── output_7_0.png
+├── output_8_0.png
+├── output_9_0.png
+├── output_10_0.png
+├── output_11_0.png
+├── output_12_0.png
+├── output_16_0.png
+├── output_26_1.png
+├── output_27_1.png
+└── output_28_1.png
 
 ## 8. Installation and Requirements
 First, install Python and the required libraries.
